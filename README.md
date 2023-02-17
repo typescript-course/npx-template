@@ -7,3 +7,4 @@ TODOs
 - link to inspiration
 - link to course
 - add ESLint for linting
+- add clack for intro/outro https://github.com/natemoo-re/clack/tree/main/packages/prompts
