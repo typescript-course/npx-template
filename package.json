@@ -10,7 +10,9 @@
   "files": [
     "dist"
   ],
-  "bin": "./dist/cli.mjs",
+  "bin": {
+    "package-name": "./dist/cli.mjs"
+  },
   "scripts": {
     "build": "pkgroll --minify",
     "type-check": "tsc"
